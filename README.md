@@ -24,3 +24,5 @@
 * The Components used for the project and SCADA screen result during process has been shown by videos which are self-explanatory.
 
 * Another video shows the experiment running condition
+
+<video src="4_My_SCADA_RESULT_ Movie.mp4" width="320" height="200" controls preload></video>
