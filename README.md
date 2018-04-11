@@ -4,6 +4,8 @@
 #### Objective:
 ~To automatically monitor and control two parameters, i) Temperature and ii) Level
 
+![](ME_setup.jpg)
+
 * This project is based on industrial process automation.
 
 * Motivation is to implement the theoretical concepts to practical i.e. to exhibit process automation using two very important components     of industrial automation Programmable Logic Controller (PLC) and Supervisory Control And Data Acquisition (SCADA).
