@@ -2,13 +2,17 @@
 ~ Automation of instant-tea powder making process using PLC and SCADA
 
 #### Objective:
-~To automatically monitor and control two parameters, i) Temperature and ii) Level
+~To automatically monitor and control temperature and level
 
 ![](ME_setup.jpg)
 
 * This project is based on industrial process automation.
 
-* Motivation is to implement the theoretical concepts to practical i.e. to exhibit process automation using two very important components     of industrial automation Programmable Logic Controller (PLC) and Supervisory Control And Data Acquisition (SCADA).
+* The process under consideration is instant-tea powder making process, in which there is a need for monitoring and automatic control of  
+  various parameters e.g. temperature, level and flow etc. at different stages of the process.
+
+* Motivation is to implement the theoretical concepts to practical i.e. to exhibit process automation using two very important components     of industrial automation Programmable Logic Controller (PLC), which is also called industrial digital computer and Supervisory Control  
+  And Data Acquisition (SCADA).
 
 * Increased productivity, reduced human error, high quality and reliability are among many advantages of process automation, as a whole 
   automation plays a crucial role in almost every industry
