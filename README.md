@@ -32,5 +32,7 @@
 <video src="4_My_SCADA_RESULT_ Movie.mp4" width="320" height="200" controls preload></video>
 
 #### Demo:
+https://github.com/user-attachments/assets/2562d298-8bf3-42e9-bf26-fa4068b62596
+https://github.com/user-attachments/assets/5172aa25-b219-42cb-99a2-2489f96b260b
+https://github.com/user-attachments/assets/51ace200-dcc3-46f6-8422-5d2268ced298
 
-https://github.com/user-attachments/assets/04f62af9-198e-49a3-b180-d766faa1de0f
